@@ -1,0 +1,7 @@
+C:\Users\Maria Leonczuk\RiderProjects\kontenery\kontenery\obj\Debug\kontenery.csproj.AssemblyReference.cache
+C:\Users\Maria Leonczuk\RiderProjects\kontenery\kontenery\obj\Debug\kontenery.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria Leonczuk\RiderProjects\kontenery\kontenery\obj\Debug\kontenery.csproj.CoreCompileInputs.cache
+C:\Users\Maria Leonczuk\RiderProjects\kontenery\kontenery\bin\Debug\kontenery.exe
+C:\Users\Maria Leonczuk\RiderProjects\kontenery\kontenery\bin\Debug\kontenery.pdb
+C:\Users\Maria Leonczuk\RiderProjects\kontenery\kontenery\obj\Debug\kontenery.exe
+C:\Users\Maria Leonczuk\RiderProjects\kontenery\kontenery\obj\Debug\kontenery.pdb
